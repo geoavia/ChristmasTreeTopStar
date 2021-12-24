@@ -3,8 +3,6 @@ Programmable led strip illuminated top star for Christmas tree
 
 This is how it looks like on a Christmas tree: https://t.co/gKtH40JKmL
 
-Assembled demo: https://github.com/geoavia/ChristmasTreeTopStar/blob/main/VID_20211216.mp4
-
 ### Assembly Instructions
 
 - [Arduino sketch code](https://github.com/geoavia/ChristmasTreeTopStar/blob/main/FastLED_Star.ino)
