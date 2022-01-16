@@ -1,5 +1,5 @@
 # ChristmasTreeTopStar
-Programmable led strip illuminated top star for Christmas tree 
+RGB Led illuminated top star for Christmas tree 
 
 ![Assembled](https://github.com/geoavia/ChristmasTreeTopStar/blob/main/star1.jpg)
 
