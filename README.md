@@ -1,6 +1,8 @@
 # ChristmasTreeTopStar
 Programmable led strip illuminated top star for Christmas tree 
 
+![Assembled](https://github.com/geoavia/ChristmasTreeTopStar/blob/main/star1.jpg)
+
 This is how it looks like on a Christmas tree: https://t.co/gKtH40JKmL
 
 STL files are included
